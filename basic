@@ -1,0 +1,14 @@
+#!/bin/bash 
+
+#to know the shell type 
+echo $0
+
+#to see supported shell 
+cat /ect/shells
+
+#RUN using 
+./script.sh
+./path/script.sh
+bash script.sh
+
+
